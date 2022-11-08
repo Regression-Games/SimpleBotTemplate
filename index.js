@@ -1,6 +1,6 @@
 const RGBot = require('rg-bot').RGBot;
 
-// This strategy is the simplest example of how to get started with the RGBot.
+// This strategy is the simplest example of how to get started with the rg-bot package.
 // The Bot will run around and gather Poppies until it has 4 in its inventory.
 function configureBot(bot) {
 
