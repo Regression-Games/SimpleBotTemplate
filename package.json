@@ -1,5 +1,5 @@
 {
-  "name": "nodejs",
+  "name": "simple-bot-template",
   "version": "1.0.0",
   "description": "A simple example for getting started with the rg-bot package.",
   "main": "index.js",
