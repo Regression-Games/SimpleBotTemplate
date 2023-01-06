@@ -3,9 +3,8 @@
  * The Bot will run around and gather Poppies until it has 100 in its inventory.
  *
  * @param {RGBot} bot
- * @param {EventEmitter} matchInfoEmitter
  */
-function configureBot(bot, matchInfoEmitter) {
+function configureBot(bot) {
 
     bot.setDebug(true);
 
